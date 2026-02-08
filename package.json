@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsx scripts/build.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}

@@ -1,0 +1,7 @@
+id = "charmed-icons-plus"
+name = "Charmed Icons+"
+version = "0.1.0"
+schema_version = 1
+authors = ["littensy", "lucas-barake"]
+description = "A charming icon theme for Zed with full file and folder icon support."
+repository = "https://github.com/lucas-barake/zed-charmed-icons"
